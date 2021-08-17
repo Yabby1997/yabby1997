@@ -9,6 +9,7 @@
   </div>
 
 +  WWDC21 Swift Student Challenge Winner 🎉
++ Naver Connect Boostcamp Challenge 6th Web/Mobile (iOS)
 + Majoring in Computer Science at Chungnam National University 
 + Email : yabby1997@gmail.com
 + LinkedIn : [Link](https://www.linkedin.com/in/seunghun-yang-22231b1b6/)
