@@ -15,5 +15,5 @@
 + Majoring in Computer Science at Chungnam National University 
 + Email : yabby1997@gmail.com
 + LinkedIn : [Link](https://www.linkedin.com/in/seunghun-yang-22231b1b6/)
-+ Portfolio : [Link](https://www.notion.so/yabby/Seunghun-Yang-af6d1735bed3450ca190b12887596028)
++ Portfolio : [Link](https://seunghun-ios.notion.site)
 + Today I Learned : [Link](https://www.notion.so/yabby/TIL-535a66e1fe6940bbaddd45e4c2a8f89e)
