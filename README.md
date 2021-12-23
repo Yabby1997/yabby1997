@@ -8,12 +8,15 @@
 
 	I am a great believer in luck, and I find the harder I work, the more I have of it.  
 	-Thomas Jefferson-
-  </div>
+</div>
 
-+  WWDC21 Swift Student Challenge Winner 🎉
-+ Naver Connect Boostcamp Challenge 6th Web/Mobile (iOS)
-+ Majoring in Computer Science at Chungnam National University 
-+ Email : yabby1997@gmail.com
-+ LinkedIn : [Link](https://www.linkedin.com/in/seunghun-yang-22231b1b6/)
-+ Portfolio : [Link](https://seunghun-ios.notion.site)
-+ Today I Learned : [Link](https://www.notion.so/yabby/TIL-535a66e1fe6940bbaddd45e4c2a8f89e)
+ <div align=center>
+	<p><br><br> WWDC21 Swift Student Challenge Winner 🎉<br>네이버 커넥트 부스트캠프 웹·모바일 6기(iOS) 수료 🐥<br>충남대학교 컴퓨터공학과 졸업예정 (2022.02.) 🎓<br><br></p>
+	<a href="mailto:yabby1997@gmail.com">📫 Email</a>
+	<b> · </b>
+	<a href="https://seunghun-ios.notion.site">🙋‍ Portfolio</a>
+	<b> · </b>
+	<a href="https://seunghun-ios.notion.site/d2041ededfe6492793a81d198a7b78e8?v=fdb5ba60beef45c8a18396a44375085b">📚 Blog</a>
+	<b> · </b>
+	<a href="https://seunghun-ios.notion.site/Today-I-Learned-535a66e1fe6940bbaddd45e4c2a8f89e">📖 Today I Learned</a>
+ </div>
