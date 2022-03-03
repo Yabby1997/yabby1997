@@ -11,7 +11,7 @@
 </div>
 
  <div align=center>
-	<p><br><br> WWDC21 Swift Student Challenge Winner 🎉<br>네이버 커넥트 부스트캠프 웹·모바일 6기(iOS) 수료 🐥<br>충남대학교 컴퓨터공학과 졸업예정 (2022.02.) 🎓<br><br></p>
+	<p><br><br> WWDC21 Swift Student Challenge Winner 🎉<br>네이버 커넥트 부스트캠프 웹·모바일 6기(iOS) 수료 🐥<br>충남대학교 컴퓨터공학과 졸업 🎓<br><br></p>
 	<a href="mailto:yabby1997@gmail.com">📫 Email</a>
 	<b> · </b>
 	<a href="https://seunghun-ios.notion.site">🙋‍ Portfolio</a>
