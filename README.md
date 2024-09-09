@@ -22,7 +22,7 @@ LINE Plus iOS 개발자
 	<b> · </b>
 	<a href="https://www.notion.so/seunghun-ios/iOS-1e259ee218c64ce4bf795a064599cd2a">Portfolio</a>
 	<b> · </b>
-	<a href="https://seunghun-ios.notion.site/Today-I-Learned-535a66e1fe6940bbaddd45e4c2a8f89e">LinkedIn</a>
+	<a href="https://www.linkedin.com/in/seunghunyang">LinkedIn</a>
 	<b> · </b>
-	<a href="www.linkedin.com/in/seunghunyang">Today I Learned</a>
+	<a href="https://seunghun-ios.notion.site/Today-I-Learned-215fcae7351c45cca5514275231d8af2?pvs=4">Today I Learned</a>
 </div>
