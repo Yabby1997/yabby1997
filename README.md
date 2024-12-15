@@ -13,7 +13,8 @@
  WWDC21 Swift Student Challenge Winner<br>
 네이버 커넥트 부스트캠프 웹·모바일 6기(iOS) 수료<br>
 충남대학교 컴퓨터공학과 학사 졸업<br>
-LINE Plus iOS 개발자
+LINE Plus iOS 개발자<br>
+네이버 커넥트 부스트캠프 웹·모바일 9기(iOS) 멘토
 
 </div>
 
